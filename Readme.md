@@ -4,6 +4,13 @@
 
 Monnaie is a user-friendly educational platform designed to help users understand Non-Fungible Tokens (NFTs). The platform offers clear explanations of NFT characteristics, their functionality, and various use cases. Additionally, Monnaie provides an interactive NFT gallery featuring diverse examples, including art and collectibles, along with seamless integration with real-time crypto wallets like MetaMask.
 
+Demo video:-
+
+
+https://github.com/rajanarahul93/Monnaie/assets/123227543/13eb08da-f4af-4f12-aa9e-3cdd693927bc
+
+
+
 ## Technologies
 
 - React: For building dynamic user interfaces.

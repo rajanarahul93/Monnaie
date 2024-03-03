@@ -2,18 +2,18 @@ const socialLinks = [
   {
     id: 1,
     icon: <i className="fa-github fab" />,
-    url: "https://github.com/DOODCAT",
+    url: "https://github.com/rajanarahul93",
   },
   {
     id: 2,
     icon: <i className="fa-twitter fab" />,
-    url: "https://twitter.com/SpaceCatsSGB",
+    url: "https://twitter.com/rajanarahul7",
   },
 
   {
     id: 4,
     icon: <i className="fa-discord fab" />,
-    url: "https://discord.gg/gUYSw7ZB7R",
+    url: "https://discord.gg/rajanarahul93",
   },
 ];
 

@@ -32,8 +32,8 @@ Follow these instructions to get the project up and running on your local machin
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/YourUsername/NFT-Marketplace.git
-   cd NFT-Marketplace
+   git clone https://github.com/rajanarahul93/Monnaie.git
+   cd Monnaie
    ```
 
 2. **Install Dependencies**

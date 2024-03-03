@@ -25,7 +25,7 @@ A MetaMask wallet (or other compatible wallet)
 [Optional] Testnet Ether (Polygon or Ethereum, depending on setup)
 Clone the repository:
 
-Bash
+
 git clone https://github.com/rajanarahul93/Monnaie.git
 Please be sure to use the code with caution.
 Install dependencies:
